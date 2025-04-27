@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f8f9fa;
+    margin: 0;
+    padding: 2rem;
+    color: #333;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+#siteList {
+    margin-top: 20px;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+}
+.site {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 0.5rem 0;
+}
